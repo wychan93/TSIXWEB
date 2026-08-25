@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500" fill="none">
+  <defs>
+    <linearGradient id="bg2" x1="144" y1="92" x2="1056" y2="1408" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#11130F"/>
+      <stop offset="0.52" stop-color="#1D253F"/>
+      <stop offset="1" stop-color="#3157FF"/>
+    </linearGradient>
+    <filter id="shadow2" x="-25%" y="-25%" width="150%" height="170%">
+      <feDropShadow dx="0" dy="25" stdDeviation="24" flood-color="#050815" flood-opacity="0.42"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#bg2)"/>
+  <path d="M-90 1178C226 981 404 1269 718 1024C922 865 1057 886 1290 733" stroke="#7C96FF" stroke-opacity="0.24" stroke-width="2"/>
+  <circle cx="1025" cy="168" r="285" fill="#3157FF" fill-opacity="0.28"/>
+  <circle cx="142" cy="1300" r="270" fill="#C8FF4D" fill-opacity="0.08"/>
+  <g filter="url(#shadow2)">
+    <rect x="92" y="126" width="1016" height="1248" rx="28" fill="#F8F6EF"/>
+    <rect x="92" y="126" width="1016" height="90" rx="28" fill="#151713"/>
+    <rect x="92" y="188" width="1016" height="28" fill="#151713"/>
+    <circle cx="140" cy="171" r="8" fill="#C8FF4D"/>
+    <circle cx="168" cy="171" r="8" fill="#596057"/>
+    <circle cx="196" cy="171" r="8" fill="#596057"/>
+    <text x="904" y="177" fill="#DDE0DA" font-family="Arial, sans-serif" font-size="15" letter-spacing="2">RELAY OS</text>
+    <rect x="92" y="216" width="1016" height="82" fill="#EFEEE8"/>
+    <text x="138" y="267" fill="#151713" font-family="Arial, sans-serif" font-size="21" font-weight="700">Client onboarding</text>
+    <rect x="873" y="235" width="185" height="43" rx="21.5" fill="#C8FF4D"/>
+    <circle cx="899" cy="257" r="6" fill="#151713"/>
+    <text x="918" y="263" fill="#151713" font-family="Arial, sans-serif" font-size="13" font-weight="700">Workflow live</text>
+    <rect x="138" y="342" width="924" height="88" rx="14" fill="white" stroke="#D9D9D1"/>
+    <circle cx="180" cy="386" r="16" fill="#3157FF"/>
+    <path d="M173 386L178 391L188 380" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="216" y="379" fill="#151713" font-family="Arial, sans-serif" font-size="15" font-weight="700">Trigger</text>
+    <text x="216" y="405" fill="#676C64" font-family="Arial, sans-serif" font-size="13">New contract signed</text>
+    <text x="940" y="392" fill="#3157FF" font-family="Arial, sans-serif" font-size="13" font-weight="700">CONNECTED</text>
+    <path d="M600 430V485" stroke="#8A8E87" stroke-width="2" stroke-dasharray="6 7"/>
+    <circle cx="600" cy="458" r="6" fill="#C8FF4D" stroke="#151713" stroke-width="2"/>
+    <rect x="138" y="485" width="924" height="188" rx="14" fill="#E7EBFF" stroke="#AFC0FF"/>
+    <text x="176" y="532" fill="#3157FF" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1">01 / PREPARE WORKSPACE</text>
+    <rect x="176" y="560" width="254" height="77" rx="10" fill="white"/>
+    <rect x="474" y="560" width="254" height="77" rx="10" fill="white"/>
+    <rect x="772" y="560" width="254" height="77" rx="10" fill="white"/>
+    <circle cx="207" cy="598" r="13" fill="#3157FF"/>
+    <circle cx="505" cy="598" r="13" fill="#3157FF"/>
+    <circle cx="803" cy="598" r="13" fill="#3157FF"/>
+    <text x="233" y="604" fill="#151713" font-family="Arial, sans-serif" font-size="13" font-weight="700">Create CRM record</text>
+    <text x="531" y="604" fill="#151713" font-family="Arial, sans-serif" font-size="13" font-weight="700">Open project</text>
+    <text x="829" y="604" fill="#151713" font-family="Arial, sans-serif" font-size="13" font-weight="700">Invite team</text>
+    <path d="M600 673V728" stroke="#8A8E87" stroke-width="2" stroke-dasharray="6 7"/>
+    <circle cx="600" cy="701" r="6" fill="#C8FF4D" stroke="#151713" stroke-width="2"/>
+    <rect x="138" y="728" width="924" height="188" rx="14" fill="#151713"/>
+    <text x="176" y="775" fill="#C8FF4D" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1">02 / SEND WELCOME SEQUENCE</text>
+    <rect x="176" y="803" width="254" height="77" rx="10" fill="#292C27" stroke="#4C5149"/>
+    <rect x="474" y="803" width="254" height="77" rx="10" fill="#292C27" stroke="#4C5149"/>
+    <rect x="772" y="803" width="254" height="77" rx="10" fill="#292C27" stroke="#4C5149"/>
+    <text x="204" y="848" fill="white" font-family="Arial, sans-serif" font-size="13" font-weight="700">Personalize email</text>
+    <text x="502" y="848" fill="white" font-family="Arial, sans-serif" font-size="13" font-weight="700">Share resources</text>
+    <text x="800" y="848" fill="white" font-family="Arial, sans-serif" font-size="13" font-weight="700">Schedule kickoff</text>
+    <path d="M600 916V971" stroke="#8A8E87" stroke-width="2" stroke-dasharray="6 7"/>
+    <circle cx="600" cy="944" r="6" fill="#C8FF4D" stroke="#151713" stroke-width="2"/>
+    <rect x="138" y="971" width="924" height="176" rx="14" fill="white" stroke="#D9D9D1"/>
+    <text x="176" y="1018" fill="#3157FF" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1">03 / NOTIFY THE TEAM</text>
+    <text x="176" y="1070" fill="#151713" font-family="Arial, sans-serif" font-size="20" font-weight="700">Everything is ready for kickoff.</text>
+    <text x="176" y="1105" fill="#676C64" font-family="Arial, sans-serif" font-size="14">6 tasks completed automatically in 4.2 seconds.</text>
+    <circle cx="970" cy="1061" r="40" fill="#C8FF4D"/>
+    <path d="M950 1062L964 1076L991 1048" stroke="#151713" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="138" y="1191" width="924" height="122" rx="14" fill="#EFEEE8"/>
+    <text x="176" y="1238" fill="#676C64" font-family="Arial, sans-serif" font-size="13" letter-spacing="1">LAST RUN</text>
+    <text x="176" y="1276" fill="#151713" font-family="Arial, sans-serif" font-size="17" font-weight="700">Today, 09:42</text>
+    <text x="798" y="1238" fill="#676C64" font-family="Arial, sans-serif" font-size="13" letter-spacing="1">SUCCESS RATE</text>
+    <text x="798" y="1276" fill="#151713" font-family="Arial, sans-serif" font-size="17" font-weight="700">100% this month</text>
+  </g>
+</svg>

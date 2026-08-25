@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="104" y1="80" x2="1116" y2="1420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DCE5FF"/>
+      <stop offset="0.5" stop-color="#F7F4EC"/>
+      <stop offset="1" stop-color="#BBD0FF"/>
+    </linearGradient>
+    <linearGradient id="chart" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#3157FF"/>
+      <stop offset="1" stop-color="#7891FF"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="32" stdDeviation="28" flood-color="#17266A" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#bg)"/>
+  <circle cx="1054" cy="196" r="260" fill="#C8FF4D" fill-opacity="0.62"/>
+  <circle cx="92" cy="1368" r="320" fill="#3157FF" fill-opacity="0.14"/>
+  <path d="M0 405C277 278 464 326 676 231C888 137 1043 72 1200 110" stroke="#3157FF" stroke-opacity="0.2"/>
+  <g filter="url(#shadow)">
+    <rect x="90" y="160" width="1020" height="1180" rx="28" fill="#FBFAF6"/>
+    <rect x="90" y="160" width="1020" height="82" rx="28" fill="#151713"/>
+    <rect x="90" y="214" width="1020" height="28" fill="#151713"/>
+    <circle cx="136" cy="201" r="8" fill="#C8FF4D"/>
+    <circle cx="164" cy="201" r="8" fill="#687067"/>
+    <circle cx="192" cy="201" r="8" fill="#687067"/>
+    <text x="958" y="207" fill="#DDE0DA" font-family="Arial, sans-serif" font-size="15" letter-spacing="2">ORBIT / LIVE</text>
+    <rect x="90" y="242" width="210" height="1098" fill="#F0EEE7"/>
+    <rect x="126" y="286" width="42" height="42" rx="10" fill="#3157FF"/>
+    <path d="M138 307H156M147 298V316" stroke="white" stroke-width="3" stroke-linecap="round"/>
+    <text x="182" y="313" fill="#151713" font-family="Arial, sans-serif" font-size="22" font-weight="700">ORBIT</text>
+    <rect x="122" y="386" width="142" height="45" rx="8" fill="#3157FF"/>
+    <text x="151" y="415" fill="white" font-family="Arial, sans-serif" font-size="15" font-weight="700">Overview</text>
+    <text x="151" y="480" fill="#656A63" font-family="Arial, sans-serif" font-size="15">Transactions</text>
+    <text x="151" y="539" fill="#656A63" font-family="Arial, sans-serif" font-size="15">Customers</text>
+    <text x="151" y="598" fill="#656A63" font-family="Arial, sans-serif" font-size="15">Automation</text>
+    <text x="151" y="657" fill="#656A63" font-family="Arial, sans-serif" font-size="15">Reports</text>
+    <text x="350" y="318" fill="#151713" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">FINANCIAL OVERVIEW</text>
+    <text x="350" y="376" fill="#151713" font-family="Arial, sans-serif" font-size="44" font-weight="700">Good morning, Mina.</text>
+    <text x="350" y="413" fill="#686D65" font-family="Arial, sans-serif" font-size="17">Your business is moving in the right direction.</text>
+    <rect x="350" y="474" width="337" height="190" rx="16" fill="#151713"/>
+    <text x="380" y="516" fill="#B9BDB5" font-family="Arial, sans-serif" font-size="14" letter-spacing="1">TOTAL REVENUE</text>
+    <text x="380" y="584" fill="white" font-family="Arial, sans-serif" font-size="48" font-weight="700">$248,640</text>
+    <rect x="380" y="611" width="102" height="28" rx="14" fill="#C8FF4D"/>
+    <text x="400" y="630" fill="#151713" font-family="Arial, sans-serif" font-size="12" font-weight="700">+18.2%</text>
+    <rect x="715" y="474" width="337" height="190" rx="16" fill="#E7EBFF"/>
+    <text x="745" y="516" fill="#4C5265" font-family="Arial, sans-serif" font-size="14" letter-spacing="1">ACTIVE ACCOUNTS</text>
+    <text x="745" y="584" fill="#151713" font-family="Arial, sans-serif" font-size="48" font-weight="700">12,480</text>
+    <text x="745" y="627" fill="#3157FF" font-family="Arial, sans-serif" font-size="14" font-weight="700">842 added this month</text>
+    <rect x="350" y="700" width="702" height="390" rx="16" fill="white" stroke="#D8D8D0"/>
+    <text x="382" y="748" fill="#151713" font-family="Arial, sans-serif" font-size="17" font-weight="700">Revenue growth</text>
+    <text x="926" y="748" fill="#686D65" font-family="Arial, sans-serif" font-size="13">JAN — JUN</text>
+    <path d="M390 1019H1014M390 934H1014M390 849H1014" stroke="#E2E3DE"/>
+    <path d="M390 1007C471 997 489 954 554 961C623 968 649 873 724 892C805 912 832 797 902 817C960 833 978 773 1014 786V1048H390V1007Z" fill="url(#chart)" fill-opacity="0.2"/>
+    <path d="M390 1007C471 997 489 954 554 961C623 968 649 873 724 892C805 912 832 797 902 817C960 833 978 773 1014 786" stroke="#3157FF" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="902" cy="817" r="9" fill="#C8FF4D" stroke="#3157FF" stroke-width="5"/>
+    <rect x="350" y="1130" width="702" height="142" rx="16" fill="#F0EEE7"/>
+    <text x="382" y="1172" fill="#151713" font-family="Arial, sans-serif" font-size="15" font-weight="700">Smart insight</text>
+    <text x="382" y="1205" fill="#60655E" font-family="Arial, sans-serif" font-size="14">Automated renewals recovered 14% more revenue this week.</text>
+    <rect x="885" y="1162" width="130" height="45" rx="22.5" fill="#3157FF"/>
+    <text x="917" y="1190" fill="white" font-family="Arial, sans-serif" font-size="13" font-weight="700">View report</text>
+  </g>
+</svg>
